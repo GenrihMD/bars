@@ -1,1 +1,1 @@
-# bars
+# Catalogue de Bars
